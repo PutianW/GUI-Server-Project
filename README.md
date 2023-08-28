@@ -2,8 +2,6 @@ README
 
 Instructions:
 
-For Project 5 you will have to first compile all the classes in the repository. The repository will contain a Server file and a Client file. The Server file will need to be run first. The Client file contains a main method which has a socket set to localhost by default, to run the client on a different PC, the host will have to be changed to the IP address of the server PC.
-
 For the file imports you will have to adhere to the following formats:
 Quiz file imported by teacher:
 
