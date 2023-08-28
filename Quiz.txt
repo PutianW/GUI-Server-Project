@@ -1,0 +1,33 @@
+TestQuiz01
+Time limit: 150 minutes
+1
+TestTestTest
+a) 2
+b) 3
+c) 4
+d) 5
+2
+What is your favorite color?
+a) purple
+b) dark purple
+c) light purple
+d) I don't have a favorite color
+End of Quiz
+Quiz02
+Time limit: 20 minutes
+1
+Question 1
+a) 1
+b) 2
+c) 3
+d) 4
+End of Quiz
+Quiz05test
+Time limit: 20 minutes
+1
+Question 1
+a) 1
+b) 2
+c) 3
+d) 4
+End of Quiz
